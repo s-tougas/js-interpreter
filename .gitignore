@@ -2,3 +2,5 @@ node_modules/
 coverage/
 out/
 images_out/
+js/
+*.map
